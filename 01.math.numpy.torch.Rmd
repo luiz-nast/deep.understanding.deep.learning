@@ -1,0 +1,11 @@
+---
+title: 'Math, numpy, PyTorch'
+output: pdf_document
+---
+
+```{r,eval=T,echo=F,results='hide'}
+reticulate::use_condaenv('torch')
+```
+
+
+
